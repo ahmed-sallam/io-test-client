@@ -1,0 +1,19 @@
+.MessageRow {
+  padding: 6px 18px;
+  border-radius: 25px;
+  width: auto;
+  margin-bottom: 2px;
+}
+.MessageRow__bot {
+  /* display: inline-block; */
+  background-color: #f7f8f7;
+  margin-left: 60px;
+}
+
+.MessageRow__user {
+  /* display: inline-block; */
+  background-color: #0dc5f8;
+  color: #ffffff;
+  margin-right: 0;
+  margin-left: auto;
+}

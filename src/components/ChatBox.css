@@ -1,0 +1,19 @@
+.Chatbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 400px;
+  height: 100vh;
+  max-height: 500px;
+  /* min-height: 500px; */
+  background-color: #ffffff;
+  box-shadow: 0px 0px 4px 4px #d7d7d7;
+  border-radius: 25px;
+  z-index: 109;
+  position: absolute;
+  bottom: 100px;
+  right: 50px;
+  overflow: hidden;
+  align-items: center;
+}

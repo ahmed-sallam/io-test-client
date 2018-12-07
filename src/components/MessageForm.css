@@ -1,0 +1,18 @@
+.MessageForm {
+  width: 100%;
+  display: flex;
+}
+
+.MessageForm__input {
+  border: 1px solid #e1dcdc;
+  padding: 8px;
+  flex: 1;
+}
+.MessageForm__send {
+  width: 20%;
+  border: 0;
+  background-color: #13264b;
+  color: #ffffff;
+  font-weight: bold;
+  text-transform: capitalize;
+}
